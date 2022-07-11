@@ -8,7 +8,7 @@ I have been learning to code for 2 years now. I started with only HTML and CSS. 
 
 * 🌍  I'm based in Kenya, Nairobi
 * ✉️  You can contact me at [steveotianga8991@gmail.com](mailto:steveotianga8991@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
