@@ -1,10 +1,8 @@
 Hi 👋 My name is Steven Otieno
 ==============================
 
-Full Stack Engineer
+Front-end Developer
 -------------------
-
-I have been writing code for 2 years now. I started with only HTML and CSS. And is currently learning Javascript.
 
 * 🌍  I'm based in Kenya, Nairobi
 * ✉️  You can contact me at [steveotianga8991@gmail.com](mailto:steveotianga8991@gmail.com)
