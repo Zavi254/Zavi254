@@ -6,7 +6,7 @@ Frontend Developer
 
 I have been learning to code for 2 years now. I have skills in HTML5, CSS3, Javascript(React JS). I am always building projects and learning about new technologies in the field of Web development.
 
-* 🌍  I'm based in Nairobi / Mombasa
+* 🌍  I'm based in Mombasa
 * ✉️  You can contact me at [steveotianga8991@gmail.com](mailto:steveotianga8991@gmail.com)
 * 🧠  I'm learning Python and Django framework
 * 🤝  I'm open to collaborating on intresting projects
