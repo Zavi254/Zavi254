@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Otiang'a
 =============================================================================================================================================
 
-Frontend Developer
+Software Developer
 ------------------
 
 I have been learning to code for 2 years now. I have skills in HTML5, CSS3, Javascript(React JS). I am always building projects and learning about new technologies in the field of Web development.
