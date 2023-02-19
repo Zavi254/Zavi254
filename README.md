@@ -8,7 +8,7 @@ I have been learning to code for 2 years now. I have skills in HTML5, CSS3, Java
 
 * 🌍  I'm based in Mombasa
 * ✉️  You can contact me at [steveotianga8991@gmail.com](mailto:steveotianga8991@gmail.com)
-* 🧠  I'm learning Python and Django framework
+* 🧠  I'm learning Dart and Flutter Framework for my mobile app developments.
 * 🤝  I'm open to collaborating on intresting projects
 * ⚡  I can also fix your printer tonner LOL.
 
