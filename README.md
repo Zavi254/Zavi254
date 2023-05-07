@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Otiang'a
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Steven Otieno.
 =============================================================================================================================================
 
 Software Developer
 ------------------
 
-I have been learning to code for 2 years now. I have skills in HTML5, CSS3, Javascript(React JS). I am always building projects and learning about new technologies in the field of Web development.
+I am a passionate software developer with 2 years of experience in developing web and mobile applications. My journey in software development started with learning HTML, CSS and JavaScript, and since then I have expanded my skillset to include Python, React, SQL, React Native, MongoDB, Node.js and Express.js
 
 * 🌍  I'm based in Mombasa
 * ✉️  You can contact me at [steveotianga8991@gmail.com](mailto:steveotianga8991@gmail.com)
-* 🧠  I'm learning React Native Framework for my mobile app developments.
+* 🧠  Currently learning React Native.
 * 🤝  I'm open to collaborating on intresting projects
 * ⚡  I can also fix your printer tonner LOL.
 
