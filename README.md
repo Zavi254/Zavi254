@@ -8,7 +8,7 @@ I am a passionate software developer with 2 years of experience in developing we
 
 * 🌍  I'm based in Mombasa
 * ✉️  You can contact me at [steveotianga8991@gmail.com](mailto:steveotianga8991@gmail.com)
-* 🧠  Currently learning React Native.
+* 🧠  Currently learning Laravel.
 * 🤝  I'm open to collaborating on intresting projects
 * ⚡  I can also fix your printer tonner LOL.
 
