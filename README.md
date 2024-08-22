@@ -4,9 +4,9 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Developer
 ------------------
 
-I am a passionate software developer with 2 years of experience in developing web and mobile applications. My journey in software development started with learning HTML, CSS, and JavaScript, and since then I have expanded my skillset to include Python, React, SQL, React Native, MongoDB, Node.js and Express.js
+I am a passionate software developer with 3 years of experience in developing web and mobile applications. My journey in software development started with learning HTML, CSS, and JavaScript, and since then I have expanded my skillset to include Python, React, SQL, React Native, MongoDB, Node.js and Express.js
 
-* 🌍  I'm based in Mombasa
+* 🌍  I'm based in Kenya
 * ✉️  You can contact me at [steveotianga8991@gmail.com](mailto:steveotianga8991@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I can also fix your printer tonner LOL.
